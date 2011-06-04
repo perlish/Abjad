@@ -52,7 +52,7 @@ sub Raw_Fixer { $_ = shift ;s/\$VAR1\s\=\s\"//g; s/\"\;//g ; return $_ ;}
 
 =head1 NAME
 
-        Moose based interface for ABJAD Numerial
+       Abjad.pm is interface for ABJAD Numerial
 
 =head1 VERSION
 
